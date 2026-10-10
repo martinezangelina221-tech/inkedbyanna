@@ -6,17 +6,17 @@
 
 :root {
   /* Colors */
-  --ink: #15110F;          /* near-black, warm */
-  --charcoal: #221D1A;     /* section background */
-  --charcoal-2: #2C2622;   /* raised surfaces, lines */
-  --ivory: #EFE6D8;        /* main light color */
-  --ivory-muted: #C8BDAE;  /* secondary text on dark */
-  --stone: #5C534B;        /* secondary text on ivory */
-  --burgundy: #7B2D36;     /* accent: buttons, fills */
-  --burgundy-deep: #62222A;
-  --burgundy-soft: #B85A63;/* accent on dark backgrounds (lines only) */
-  --line-dark: rgba(239, 230, 216, 0.16);
-  --line-light: rgba(21, 17, 15, 0.18);
+  --ink: #0B120E;          /* near-black, green-tinted */
+  --charcoal: #121C18;     /* section background */
+  --charcoal-2: #1B2B24;   /* raised surfaces, lines */
+  --ivory: #EDF5EE;        /* main light color */
+  --ivory-muted: #B9C9BF;  /* secondary text on dark */
+  --stone: #5C6D63;        /* secondary text on ivory */
+  --burgundy: #2C5D47;     /* accent: buttons, fills */
+  --burgundy-deep: #214A3A;
+  --burgundy-soft: #77A98A;/* accent on dark backgrounds (lines only) */
+  --line-dark: rgba(237, 245, 238, 0.16);
+  --line-light: rgba(11, 18, 14, 0.18);
 
   /* Type */
   --font-display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, "Times New Roman", serif;
